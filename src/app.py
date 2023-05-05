@@ -1,4 +1,4 @@
-import discord
+import disord
 from discord import Embed, Interaction, ui
 from discord.ext import commands
 import asyncio
